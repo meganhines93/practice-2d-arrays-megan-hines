@@ -1,1 +1,20 @@
 
+//Challenge 1
+let allScores = [
+    [67, 95, 83],
+    [98, 79, 93],
+    [92, 52, 85]
+];
+
+//Challenge 2
+let theaterSeating = [
+    ["A1","A2","A3","A4"],
+    ["B1","B2","B3","B4"],
+    ["C1","C2","C3","C4"],
+];
+
+//Challenge 3
+let contactsList = [
+    ["Theodore Bearington","tbear@gmail.com","333-333-3333"],
+    ["Evie Stevie","evelyn@gmail.com","777-777-7777"],
+];
